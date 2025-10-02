@@ -3,3 +3,6 @@ The Car Sales Tracking and Reporting module is a key component for any system de
 
 In the automobiles industry, dealerships often deal with a large number of transactions on a daily basis. These transactions include various details such as car models sold, customer information, dates of purchase, prices, and salesperson details. Many small to mid-sized dealerships still rely on manual entry methods or spreadsheets, which are prone to human errors, lack data security, and make it difficult to analyze performance over time.
 Manual methods of tracking sales and management of huge data in the car companies often lead to errors, inefficiencies, and data mismanagement. CarLogix : Smart sales monitoring system solves those problems by storing data in a structured file and providing functionality to add, view, and analyse sales.
+
+
+
